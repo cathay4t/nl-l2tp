@@ -1,4 +1,14 @@
 # Changelog
+## [0.2.0] - 2026-10-21
+### Breaking changes
+ - N/A
+
+### New features
+ - N/A
+
+### Bug fixes
+ - Use published netlink-packet-l2tp 0.3.0. (d15d51e)
+
 ## [Unreleased]
 ### Breaking changes
  - N/A
