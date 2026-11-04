@@ -1,4 +1,14 @@
 # Changelog
+## [0.2.1] - 2026-11-04
+### Breaking changes
+ - N/A
+
+### New features
+ - N/A
+
+### Bug fixes
+ - Use netlink-proto 0.14.1. (2861fef)
+
 ## [0.2.0] - 2026-10-21
 ### Breaking changes
  - N/A
@@ -8,13 +18,3 @@
 
 ### Bug fixes
  - Use published netlink-packet-l2tp 0.3.0. (d15d51e)
-
-## [Unreleased]
-### Breaking changes
- - N/A
-
-### New features
- - Init release
-
-### Bug fixes
- - N/A
